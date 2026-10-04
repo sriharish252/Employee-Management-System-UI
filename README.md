@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Employee Management System UI
+
+React front end for the Employee Management System: employee, salary and dependent records with CRUD screens and query views. Back end (Spring Boot, MongoDB): [Employee-Management-System-Using-SpringBoot](https://github.com/sriharish252/Employee-Management-System-Using-SpringBoot).
+
+## About this project
+
+A two-person team project built with Vignesh Somasundaram. We pair-programmed most of it together on one machine, so the commit history sits largely under one account; I contributed across the whole project, from design to implementation.
+
+## Running locally
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
